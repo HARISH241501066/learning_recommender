@@ -58,13 +58,26 @@ def split_skills(x):
     return [s.strip() for s in x.split(',')]
 __main__.split_skills = split_skills
 
-# Load model
+# Load model or train automatically if missing
 MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model.pkl")
 model = None
 if os.path.exists(MODEL_PATH):
-    model = joblib.load(MODEL_PATH)
-else:
-    print(f"Warning: Model not found at {MODEL_PATH}")
+    try:
+        model = joblib.load(MODEL_PATH)
+        print("Model loaded successfully from disk.")
+    except Exception as e:
+        print(f"Error loading model from {MODEL_PATH}: {e}")
+
+if model is None:
+    print(f"Model not available at {MODEL_PATH}. Training model on startup...")
+    try:
+        import train_model
+        model = train_model.main()
+        if model is None and os.path.exists(MODEL_PATH):
+            model = joblib.load(MODEL_PATH)
+        print("Model trained and loaded successfully.")
+    except Exception as e:
+        print(f"Failed to auto-train model on startup: {e}")
 
 # --- Auth Endpoints ---
 

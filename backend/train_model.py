@@ -47,7 +47,7 @@ def main():
     # but RF usually overfits deterministic data perfectly.
     model = Pipeline(steps=[
         ("preprocessor", preprocessor),
-        ("classifier", RandomForestClassifier(n_estimators=50, max_depth=18, random_state=42, n_jobs=-1))
+        ("classifier", RandomForestClassifier(n_estimators=150, max_depth=None, random_state=42))
     ])
 
     # Split data
@@ -69,10 +69,11 @@ def main():
     else:
         print("Warning: Model did not achieve 99% accuracy. Check dataset generation logic.")
 
-    # Save model with compression
+    # Save model
     model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model.pkl")
     joblib.dump(model, model_path, compress=3)
-    print(f"Model saved to {model_path} (compressed)")
+    print(f"Model saved to {model_path}")
+    return model
 
 if __name__ == "__main__":
     main()
