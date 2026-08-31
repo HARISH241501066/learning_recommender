@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Search, Briefcase } from 'lucide-react';
+import { API_BASE } from '../api';
 
 const Careers = ({ userProfile, token, setRecommendation }) => {
   const [careers, setCareers] = useState([]);
@@ -9,7 +10,7 @@ const Careers = ({ userProfile, token, setRecommendation }) => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/api/careers')
+    fetch(`${API_BASE}/api/careers`)
       .then(res => res.json())
       .then(data => {
         setCareers(data);
@@ -32,7 +33,7 @@ const Careers = ({ userProfile, token, setRecommendation }) => {
     const skills = userProfile?.skills || [];
 
     try {
-      const response = await fetch('/api/select_career', {
+      const response = await fetch(`${API_BASE}/api/select_career`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

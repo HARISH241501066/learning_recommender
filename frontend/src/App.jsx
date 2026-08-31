@@ -8,6 +8,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import BackgroundDecorations from './components/BackgroundDecorations';
 import Careers from './components/Careers';
+import { API_BASE } from './api';
 import './index.css';
 
 function App() {
@@ -33,7 +34,7 @@ function App() {
         return;
       }
       try {
-        const response = await fetch('/api/me', {
+        const response = await fetch(`${API_BASE}/api/me`, {
           headers: {
             'Authorization': `Bearer ${token}`
           }
@@ -66,7 +67,7 @@ function App() {
   const handleProfileSubmit = async (profile) => {
     setUserProfile(profile);
     try {
-      const response = await fetch('/api/recommend', {
+      const response = await fetch(`${API_BASE}/api/recommend`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

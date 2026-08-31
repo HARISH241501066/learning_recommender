@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import CustomSelect from './CustomSelect';
+import { API_BASE } from '../api';
 
 const ProfileWizard = ({ onSubmit, currentProfile }) => {
   const [formData, setFormData] = useState(currentProfile || {
@@ -19,7 +20,7 @@ const ProfileWizard = ({ onSubmit, currentProfile }) => {
   });
 
   useEffect(() => {
-    fetch('/api/metadata')
+    fetch(`${API_BASE}/api/metadata`)
       .then(res => res.json())
       .then(data => {
         if (data && data.specializations.length > 0) {

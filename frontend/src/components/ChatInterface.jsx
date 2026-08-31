@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Send, Bot } from 'lucide-react';
+import { API_BASE } from '../api';
 
 const ChatInterface = ({ token }) => {
   const [messages, setMessages] = useState([
@@ -27,7 +28,7 @@ const ChatInterface = ({ token }) => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/api/chat', {
+      const response = await fetch(`${API_BASE}/api/chat`, {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
