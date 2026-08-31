@@ -6,9 +6,8 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
-# Large ML Models (re-train via train_model.py)
-*.pkl
-*/model.pkl
+# Large ML Models (re-train via train_model.py if needed)
+# *.pkl (Uncomment if using external storage)
 
 # Databases
 *.db
