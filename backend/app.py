@@ -14,6 +14,8 @@ import models, auth
 from database import engine, get_db
 import json
 from urllib.parse import quote_plus
+from dotenv import load_dotenv
+load_dotenv()
 
 # Load Master Data
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -291,23 +293,93 @@ def get_all_careers():
     # Convert dict to list of objects for easier frontend rendering
     return [{"title": k, "skills": v["core"] + v["adv"]} for k, v in career_blueprints.items()]
 
+from groq import Groq
+
+def get_groq_client():
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        return None
+    try:
+        return Groq(api_key=api_key)
+    except Exception as e:
+        print(f"Error initializing Groq client: {e}")
+        return None
+
+class ChatHistoryItem(BaseModel):
+    role: str
+    content: str
+
 class ChatMessage(BaseModel):
     message: str
+    history: list[ChatHistoryItem] = []
 
 @app.post("/api/chat")
 def chat(
     payload: ChatMessage,
-    current_user: models.User = Depends(auth.get_current_user)
+    current_user: models.User = Depends(auth.get_current_user),
+    db: Session = Depends(get_db)
 ):
+    groq_client = get_groq_client()
+
+    # Build personalized context from user's current learning path
+    user_context = f"Username: {current_user.username}\n"
+    if current_user.learning_path:
+        lp = current_user.learning_path
+        if lp.recommended_career:
+            user_context += f"Target/Recommended Career: {lp.recommended_career}\n"
+        if lp.explanation:
+            user_context += f"Profile Insights: {lp.explanation}\n"
+        if lp.path_data and isinstance(lp.path_data, list):
+            course_titles = [c.get("title", "") for c in lp.path_data if isinstance(c, dict) and "title" in c]
+            if course_titles:
+                user_context += f"Roadmap Milestones: {', '.join(course_titles)}\n"
+
+    system_prompt = (
+        "You are LearnAI, a friendly, highly intelligent AI Career & Learning Mentor. "
+        "Your mission is to guide students and professionals on career pathways, skill mastery, "
+        "curriculum roadmaps, study resources, portfolio projects, and technical interview advice. "
+        "Provide clear, actionable, concise, and structured guidance. Use markdown bullet points and headings when helpful.\n\n"
+        f"Learner Context:\n{user_context}"
+    )
+
+    if groq_client:
+        candidate_models = [
+            "openai/gpt-oss-120b",
+            "qwen/qwen3.8-27b",
+            "openai/gpt-oss-20b",
+            "groq/compound-mini"
+        ]
+        messages = [{"role": "system", "content": system_prompt}]
+        # Include recent chat history
+        for item in payload.history[-8:]:
+            role = "assistant" if item.role in ["assistant", "ai"] else "user"
+            messages.append({"role": role, "content": item.content})
+        messages.append({"role": "user", "content": payload.message})
+
+        for model_choice in candidate_models:
+            try:
+                completion = groq_client.chat.completions.create(
+                    model=model_choice,
+                    messages=messages,
+                    temperature=0.7,
+                    max_tokens=900
+                )
+                reply = completion.choices[0].message.content
+                if reply:
+                    return {"reply": reply}
+            except Exception as e:
+                print(f"Groq error with model {model_choice}: {e}")
+                continue
+
+    # Fallback when GROQ_API_KEY is not configured
     msg = payload.message.lower()
     if "goal" in msg or "career" in msg:
-        return {"reply": f"That's a great goal, {current_user.username}! Could you tell me about your current education and any specific skills you have?"}
-    elif "python" in msg or "sql" in msg or "react" in msg:
-        return {"reply": "Awesome! Technical skills like those are highly valued. Do you have any certifications to go along with them?"}
-    elif "thanks" in msg or "thank you" in msg:
-        return {"reply": "You're welcome! Let me know if you need any adjustments to your learning path."}
+        return {"reply": f"That's a great goal, {current_user.username}! To enable full conversational AI with live LLM intelligence, configure your GROQ_API_KEY environment variable. You can also generate your customized roadmap using the Profile Wizard."}
+    elif "python" in msg or "sql" in msg or "react" in msg or "ai" in msg:
+        return {"reply": "Awesome! In-demand technical skills like these are central to top industry roles. Check out your tailored learning roadmap to see bridging courses and recommended capstone projects."}
     else:
-        return {"reply": "I see. Let's update your profile with this information. You can use the Profile Wizard to make sure everything is captured accurately, and I'll generate a personalized path for you!"}
+        return {"reply": f"Hello {current_user.username}! I am your LearnAI assistant. Set your GROQ_API_KEY on your server/environment to unlock full interactive coaching on any topic!"}
+
 
 
 # --- Serve Built Frontend (Single-Deploy Support) ---

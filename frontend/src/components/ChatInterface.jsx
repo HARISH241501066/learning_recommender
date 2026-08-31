@@ -23,28 +23,37 @@ const ChatInterface = ({ token }) => {
     if (!input.trim()) return;
 
     const userMessage = input.trim();
-    setMessages(prev => [...prev, { text: userMessage, sender: 'user' }]);
+    const updatedMessages = [...messages, { text: userMessage, sender: 'user' }];
+    setMessages(updatedMessages);
     setInput('');
     setIsLoading(true);
 
     try {
+      // Map existing messages to API history format
+      const history = messages.map(m => ({
+        role: m.sender === 'user' ? 'user' : 'assistant',
+        content: m.text
+      }));
+
       const response = await fetch(`${API_BASE}/api/chat`, {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
           'Authorization': `Bearer ${token}`
         },
-        body: JSON.stringify({ message: userMessage })
+        body: JSON.stringify({ 
+          message: userMessage,
+          history: history
+        })
       });
       const data = await response.json();
       
-      setTimeout(() => {
-        setMessages(prev => [...prev, { text: data.reply, sender: 'ai' }]);
-        setIsLoading(false);
-      }, 500); // Artificial delay for better UX
+      setMessages(prev => [...prev, { text: data.reply || "No response received.", sender: 'ai' }]);
+      setIsLoading(false);
       
     } catch (error) {
       console.error("Chat error", error);
+      setMessages(prev => [...prev, { text: "Sorry, I encountered an error connecting to the assistant. Please try again.", sender: 'ai' }]);
       setIsLoading(false);
     }
   };
@@ -59,7 +68,7 @@ const ChatInterface = ({ token }) => {
           {messages.map((msg, idx) => (
             <div key={idx} style={{ 
               alignSelf: msg.sender === 'user' ? 'flex-end' : 'flex-start',
-              maxWidth: '70%',
+              maxWidth: '75%',
               display: 'flex',
               gap: '12px',
               alignItems: 'flex-start'
@@ -76,7 +85,8 @@ const ChatInterface = ({ token }) => {
                 borderTopRightRadius: msg.sender === 'user' ? '4px' : '16px',
                 borderTopLeftRadius: msg.sender === 'ai' ? '4px' : '16px',
                 color: 'white',
-                lineHeight: '1.5'
+                lineHeight: '1.5',
+                whiteSpace: 'pre-wrap'
               }}>
                 {msg.text}
               </div>
