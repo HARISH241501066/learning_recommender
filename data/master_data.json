@@ -1,0 +1,5388 @@
+{
+    "careers": [
+        "Forestry",
+        "Dairy Technology",
+        "Food Engineering",
+        "Agriculture",
+        "Plant Breeding and Genetics",
+        "Horticulture",
+        "Agronomy",
+        "Agricultural Biotechnology",
+        "Soil Science",
+        "Optometry",
+        "Public Health Administration",
+        "Nutrition & Dietetics",
+        "Occupational Therapist",
+        "Radiologist",
+        "Audiologist",
+        "Clinical Research",
+        "Medical laboratory technologist",
+        "Nursing",
+        "Physiotherapists",
+        "BAMS",
+        "BHMS",
+        "BUMS",
+        "Game Designing and development",
+        "Graphic Designing",
+        "Multimedia",
+        "Web Designing",
+        "Animation",
+        "Architect",
+        "Construction and Infrastructure Management",
+        "Engineering Design",
+        "Urban and Rural Planning",
+        "Entrepreneurship",
+        "Retailing",
+        "Human Resource Management",
+        "Supply chain Management / Logistics",
+        "Operations and Logistics",
+        "International Business",
+        "General Management",
+        "Under Grads Management",
+        "Actuaries",
+        "Fashion Designing",
+        "Jewellery Designing",
+        "Interior Designing",
+        "Industrial / Product Design",
+        "Textile and Apparel Production",
+        "Visual Merchandising",
+        "Fine Arts",
+        "Applied Arts",
+        "Sculpture",
+        "Print Making",
+        "Visual Communication",
+        "Glass Design",
+        "Footwear Design",
+        "Librarian",
+        "Elementary Teacher",
+        "Nursery Teacher (NTT)",
+        "Counselor",
+        "Special Educator",
+        "Early Childhood Care",
+        "Bachelor in Education (B.Ed)",
+        "Diploma in Automobile Engineering",
+        "Diploma in Chemical Engineering",
+        "Diploma in Civil Engineering",
+        "Diploma in Computer Engineering",
+        "Diploma in Electrical Engineering",
+        "Diploma in Electronics & Communication Engineering",
+        "Diploma in Digital Electronics",
+        "Diploma in Garment Fabrication Technology",
+        "Diploma in Instrumentation & Control",
+        "Diploma in Mechanical Engineering",
+        "Diploma in Polymer Technology",
+        "Diploma in Printing Technology",
+        "Diploma in Production Engineering",
+        "Diploma in Textile Design",
+        "Diploma in Tool & Die Making",
+        "Draughtsman (Civil)",
+        "Draughtsman (Mechanical)",
+        "Electrician",
+        "Electronic Mechanic",
+        "Fitter",
+        "Instrument Mechanic",
+        "Machinist",
+        "Mechanic Auto Body Painting",
+        "Mechanic Auto Body Repair",
+        "Mechanic Diesel",
+        "Mechanic Motor Vehicle",
+        "Refrigeration & Air Conditioning",
+        "Sewing Technology",
+        "Turner",
+        "Welder",
+        "Company Secretary",
+        "Charted Accountancy",
+        "Cost & Work Accountancy",
+        "Insurance",
+        "Banking Services",
+        "Investment Banking",
+        "Stock Broker",
+        "Portfolio Management",
+        "Microfinance\u2019",
+        "Economics",
+        "Finance",
+        "Risk Management",
+        "Equity Research",
+        "Adventure Sports",
+        "Sports Management",
+        "Sports Medicine",
+        "Sports Psychology",
+        "Physiotherapist",
+        "Nutritionist",
+        "Exercise Physiology",
+        "Sports Bio Mechanics",
+        "Health Sciences & Fitness",
+        "Sports Science",
+        "Sports Coach",
+        "Border Security Forces",
+        "Central Reserve Police Force",
+        "Police Officer",
+        "Civil Services",
+        "Merchant Navy",
+        "Coast Guard",
+        "Indian Army",
+        "Air Force",
+        "Income Tax",
+        "Pilot",
+        "Software Engineer",
+        "Application Programmers",
+        "Network Administrator",
+        "System Architect",
+        "Computer Science & Engineering",
+        "Information & Communication Technology",
+        "Copywriting",
+        "Creative Writing",
+        "Fashion Journalism",
+        "Internet Journalism",
+        "Journalism",
+        "Sports Journalism",
+        "Hindi Journalism",
+        "English Journalism",
+        "Urdu Journalism",
+        "Odia Journalism",
+        "Corporate Law",
+        "Cyber Law",
+        "Intellectual Property Law",
+        "Marine/Maritime Law",
+        "Medical law & Ethics",
+        "Civil Law",
+        "Human Rights",
+        "Patents",
+        "Advertising",
+        "Public Relations",
+        "Media Management",
+        "Film Making",
+        "Publishing & Printing",
+        "Radio Jockeying",
+        "Electronic Journalism",
+        "Print Journalism",
+        "Media Studies",
+        "TV Anchoring",
+        "Acting",
+        "MBBS (Bachelor of Medicine Bachelor of Surgery)",
+        "General Medicine",
+        "Obstetrics & Gynecology",
+        "Radio Diagnosis",
+        "Anesthesiology",
+        "Radio Therapy",
+        "Anatomy",
+        "Physiology",
+        "Pathology",
+        "Pharmacology",
+        "Microbiology",
+        "Forensic Medicine & Toxicology",
+        "Preventive & Social Medicine",
+        "Surgery",
+        "Orthopaedics",
+        "Ophthalmology",
+        "B.D.S. (Bachelor of Dental Surgery)",
+        "Periodontology",
+        "Orthodontics & Dentofacial Orthopedics",
+        "Dance",
+        "Music",
+        "Dramatics",
+        "Modelling",
+        "Photography",
+        "International Marketing",
+        "Service Sales",
+        "Direct Marketing",
+        "Product Marketing",
+        "E-Marketing/Internet Marketing & Digital Marketing",
+        "Media Marketing",
+        "Operation Analyst",
+        "Data Analyst",
+        "Mathematics",
+        "Statistics",
+        "Biology",
+        "Micro-Biology",
+        "Physics",
+        "Chemistry",
+        "Oceanography",
+        "Life Sciences",
+        "Astronomy",
+        "Forensic Scientist",
+        "Zoology",
+        "Botany",
+        "Bacteriologist",
+        "Bioinformatics",
+        "Biotechnology",
+        "Environmental Science",
+        "Psychology",
+        "Sociology",
+        "Anthropology",
+        "History",
+        "Political Science",
+        "English Literature",
+        "Hindi Literature",
+        "Sanskrit Literature",
+        "Liberal Arts",
+        "Archaeology",
+        "Geography",
+        "Social Work",
+        "Library & Information Management",
+        "Philosophy",
+        "Industrial/Organizational Psychology",
+        "Clinical Psychology",
+        "International Relations",
+        "Education",
+        "Development Practice",
+        "Foreign Language",
+        "Dance Therapist",
+        "Dairy Worker",
+        "Dairy Farmer",
+        "Coffee & Tea Plantation",
+        "Banana Worker",
+        "Floriculturist",
+        "Gardener",
+        "Poultry",
+        "Fisheries",
+        "Livestock Worker",
+        "Paddy Farmer",
+        "Soil Conservationist",
+        "Ploughman",
+        "Cardiac Care Technician",
+        "X- Ray technician",
+        "Dental assistant",
+        "Dialysis Technician",
+        "Pharmacy technician",
+        "Dietician Assistant",
+        "Radiology Technician",
+        "Stenography",
+        "Physiotherapy",
+        "Medical Lab Technology",
+        "Anesthesia Technology",
+        "Pulmonary Technology",
+        "Optometrician",
+        "Pharmacist",
+        "Diabetes Educator",
+        "Game Designing & Development",
+        "CAD Designer",
+        "Assistant Scaffolder",
+        "Carpenter",
+        "Plumber",
+        "Construction laboratory Technician",
+        "Concrete Moulder",
+        "Painter",
+        "Plasterer",
+        "Contractor",
+        "Thatcher",
+        "Mason",
+        "Foreman",
+        "Cartographer",
+        "Draught person",
+        "Human Resource",
+        "Marketing",
+        "Entrepreneur/Businessman",
+        "Operations",
+        "Office Management (Modern office practice)",
+        "Supply Chain/Logistics/Warehouse",
+        "Event Management",
+        "Retail Services / Retail Management",
+        "Women Entrepreneurship Program",
+        "Leather Designer",
+        "Footwear Cutter",
+        "Leather goods Stitcher",
+        "Tailoring",
+        "Fashion Designer",
+        "Fabric Cutter",
+        "Sewing Machine Operator",
+        "Accounts Executive (Accountant)",
+        "Banking Correspondent",
+        "Bank Clerk",
+        "Micro Finance Executive",
+        "Tally Professional",
+        "Mutual Fund Agent",
+        "Financial Modeling",
+        "Insurance Agent",
+        "Stock Broker / Equity Dealer",
+        "Cashier",
+        "Finance Executive",
+        "Yoga Instructor",
+        "Fitness Instructor / Gym Instructor",
+        "Athlete / Sportsman",
+        "Physical Training Instructor / Physical Education Teacher",
+        "Mountaineering",
+        "Firefighter",
+        "Security Guard",
+        "Army",
+        "Police",
+        "Defence & Security",
+        "Hospitality Operations",
+        "Chef / Cook",
+        "Travel agent",
+        "Tourist Guide",
+        "Butler",
+        "Flight Attendants & Travel Steward",
+        "Housekeeping",
+        "Food & Beverage Service",
+        "Front Desk Associate",
+        "Bakery & Confectionary",
+        "Web Developer",
+        "Software Programmer",
+        "Computer Operator & Programing Assistant",
+        "Software Testing Assistant",
+        "Data Entry Operator",
+        "Server Administrator",
+        "Cloud Professional",
+        "Reporter",
+        "Photographer",
+        "Actor",
+        "Journalist",
+        "Script writer",
+        "Dancer",
+        "Choreographer",
+        "Disc Jockey",
+        "Model",
+        "Cartoonist",
+        "Jewellery Design",
+        "Gem Cutting & Polishing",
+        "Gem Identification",
+        "Stone Setting",
+        "Wax Pulling & Casting",
+        "Beautician",
+        "Hair Stylist",
+        "Pedicurist and Manicurist",
+        "Make Up Artist",
+        "Mehendi Artist",
+        "Skin Specialist",
+        "Nail/ Tatoo artist",
+        "Spa Therapist",
+        "Beauty Wellness Advisor/Consultant",
+        "Barber",
+        "AC & Refrigeration Technician",
+        "Sales Service & Repair Technician",
+        "Mobile Phone Hardware Technician",
+        "Computer Hardware Technician",
+        "Computer Networking Technician",
+        "Electrical Technician",
+        "CCTV Installation Technician",
+        "Radio & TV Technician",
+        "Printer Specialist/ Technician",
+        "Domestic Appliance Repair Technician",
+        "DTH Setup Box Installer & Technician",
+        "Broadband Technician",
+        "Mobile Repairing",
+        "Call Center Executive (BPO)",
+        "Sales Executive",
+        "Automobile Sales",
+        "Retail Sales Associate",
+        "Distributor Salesman",
+        "Tailor",
+        "Machine Embroidery",
+        "Spinning Mill Operator",
+        "Hand Embroidery"
+    ],
+    "skills": [
+        "Soil Science",
+        "Creative Writing",
+        "Healthcare Management",
+        "Management",
+        "Project Management",
+        "Research",
+        "Counseling",
+        "Psychology",
+        "Animation",
+        "Accounting",
+        "Biology",
+        "Security",
+        "Legal Research",
+        "Python",
+        "Anatomy",
+        "Risk Management",
+        "Physical Fitness",
+        "Advanced Design",
+        "Agriculture",
+        "Problem Solving",
+        "SQL",
+        "Leadership",
+        "Networking",
+        "Botany",
+        "AutoCAD",
+        "Financial Analysis",
+        "Customer Service",
+        "Advanced Creativity",
+        "Mathematics",
+        "Communication",
+        "Data Analysis",
+        "Creativity",
+        "Physics",
+        "Patient Care",
+        "Multimedia",
+        "Public Speaking",
+        "Marketing",
+        "Design",
+        "Cloud Computing"
+    ],
+    "certifications": [
+        "None",
+        "AWS Certified Solutions Architect",
+        "Google Data Analytics",
+        "CFA Level 1",
+        "PMP (Project Management Professional)",
+        "Cisco CCNA",
+        "CompTIA Security+",
+        "Digital Marketing Professional",
+        "AutoCAD Certified",
+        "Certified Public Accountant (CPA)",
+        "Certified Nursing Assistant (CNA)",
+        "Certified Human Resources Professional",
+        "Certified Ethical Hacker (CEH)",
+        "Six Sigma Green Belt",
+        "Certified ScrumMaster (CSM)",
+        "ITIL Certification",
+        "Microsoft Certified: Azure Fundamentals",
+        "Certified Financial Planner (CFP)",
+        "Salesforce Certified Administrator",
+        "Certified Medical Assistant (CMA)"
+    ],
+    "specializations": [
+        "Agriculture and Food",
+        "Allied Medical Sciences",
+        "Animation and Graphics",
+        "Architecture",
+        "Business Management",
+        "Design",
+        "Education & Teaching",
+        "Engineering",
+        "Finance Accounting & Banking",
+        "Fitness & well-being",
+        "Government & Defence",
+        "Hospitality & Tourism",
+        "Information Technology",
+        "Journalism",
+        "Legal Studies",
+        "Mass Communication",
+        "Medical Sciences",
+        "Performing Arts",
+        "Sales & Marketing",
+        "Science & Mathematics",
+        "Social Sciences",
+        "Agriculture & Food",
+        "Healthcare",
+        "Animation & Graphics",
+        "Construction",
+        "Management & Entrepreneurship",
+        "Leather & Apparel",
+        "Banking Financial Services & Insurance (BFSI)",
+        "Fitness & Well-Being",
+        "Defence& Security",
+        "IT/ITeS",
+        "Media & Entertainment",
+        "Gem & Jewellery",
+        "Beauty & Wellness",
+        "Electronics & Hardware",
+        "Sales/Marketing/BPO",
+        "Textile & Handloom",
+        "None"
+    ],
+    "blueprints": {
+        "Forestry": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Soil Science",
+                "Agriculture",
+                "Project Management"
+            ],
+            "adv": [
+                "Botany",
+                "Data Analysis",
+                "Biology"
+            ]
+        },
+        "Dairy Technology": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Botany",
+                "Soil Science",
+                "Python",
+                "Biology"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Agriculture",
+                "Project Management",
+                "Mathematics"
+            ]
+        },
+        "Food Engineering": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Agriculture",
+                "Mathematics",
+                "Botany",
+                "Python"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Project Management",
+                "Biology",
+                "Soil Science"
+            ]
+        },
+        "Agriculture": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Agriculture",
+                "Project Management",
+                "Mathematics",
+                "Biology"
+            ],
+            "adv": [
+                "Python",
+                "Data Analysis",
+                "Soil Science",
+                "Botany"
+            ]
+        },
+        "Plant Breeding and Genetics": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Agriculture",
+                "Botany",
+                "Mathematics",
+                "Python"
+            ],
+            "adv": [
+                "Project Management",
+                "Biology",
+                "Data Analysis",
+                "Soil Science"
+            ]
+        },
+        "Horticulture": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Mathematics",
+                "Project Management",
+                "Soil Science",
+                "Agriculture"
+            ],
+            "adv": [
+                "Botany",
+                "Python",
+                "Data Analysis",
+                "Biology"
+            ]
+        },
+        "Agronomy": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Biology",
+                "Agriculture",
+                "Soil Science",
+                "Botany"
+            ],
+            "adv": [
+                "Python",
+                "Project Management",
+                "Data Analysis",
+                "Mathematics"
+            ]
+        },
+        "Agricultural Biotechnology": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Agriculture",
+                "Python",
+                "Mathematics",
+                "Project Management"
+            ],
+            "adv": [
+                "Biology",
+                "Soil Science",
+                "Botany",
+                "Data Analysis"
+            ]
+        },
+        "Soil Science": {
+            "category": "Agriculture and Food",
+            "core": [
+                "Agriculture",
+                "Botany",
+                "Data Analysis",
+                "Project Management"
+            ],
+            "adv": [
+                "Mathematics",
+                "Python",
+                "Biology",
+                "Soil Science"
+            ]
+        },
+        "Optometry": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Healthcare Management",
+                "Biology",
+                "Communication"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Patient Care",
+                "Anatomy"
+            ]
+        },
+        "Public Health Administration": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Biology",
+                "Patient Care",
+                "Communication"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Anatomy",
+                "Data Analysis"
+            ]
+        },
+        "Nutrition & Dietetics": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Biology",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Communication",
+                "Patient Care",
+                "Healthcare Management"
+            ]
+        },
+        "Occupational Therapist": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Communication",
+                "Biology",
+                "Anatomy"
+            ],
+            "adv": [
+                "Patient Care",
+                "Data Analysis",
+                "Healthcare Management"
+            ]
+        },
+        "Radiologist": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Anatomy",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Biology",
+                "Communication"
+            ]
+        },
+        "Audiologist": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Healthcare Management",
+                "Biology"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Patient Care",
+                "Communication"
+            ]
+        },
+        "Clinical Research": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Anatomy",
+                "Communication"
+            ],
+            "adv": [
+                "Biology",
+                "Data Analysis",
+                "Healthcare Management"
+            ]
+        },
+        "Medical laboratory technologist": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Healthcare Management",
+                "Data Analysis",
+                "Biology"
+            ],
+            "adv": [
+                "Patient Care",
+                "Anatomy",
+                "Communication"
+            ]
+        },
+        "Nursing": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Biology",
+                "Anatomy",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Patient Care",
+                "Communication"
+            ]
+        },
+        "Physiotherapists": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Biology",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Communication",
+                "Anatomy"
+            ]
+        },
+        "BAMS": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Communication",
+                "Anatomy",
+                "Biology"
+            ],
+            "adv": [
+                "Patient Care",
+                "Healthcare Management",
+                "Data Analysis"
+            ]
+        },
+        "BHMS": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Healthcare Management",
+                "Anatomy"
+            ],
+            "adv": [
+                "Communication",
+                "Data Analysis",
+                "Biology"
+            ]
+        },
+        "BUMS": {
+            "category": "Allied Medical Sciences",
+            "core": [
+                "Biology",
+                "Healthcare Management",
+                "Communication"
+            ],
+            "adv": [
+                "Anatomy",
+                "Data Analysis",
+                "Patient Care"
+            ]
+        },
+        "Game Designing and development": {
+            "category": "Animation and Graphics",
+            "core": [
+                "Multimedia",
+                "Animation"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication",
+                "Design"
+            ]
+        },
+        "Graphic Designing": {
+            "category": "Animation and Graphics",
+            "core": [
+                "Communication",
+                "Design"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Animation"
+            ]
+        },
+        "Multimedia": {
+            "category": "Animation and Graphics",
+            "core": [
+                "Communication",
+                "Multimedia"
+            ],
+            "adv": [
+                "Design",
+                "Animation",
+                "Creativity"
+            ]
+        },
+        "Web Designing": {
+            "category": "Animation and Graphics",
+            "core": [
+                "Communication",
+                "Animation"
+            ],
+            "adv": [
+                "Design",
+                "Creativity",
+                "Multimedia"
+            ]
+        },
+        "Animation": {
+            "category": "Animation and Graphics",
+            "core": [
+                "Design",
+                "Creativity"
+            ],
+            "adv": [
+                "Multimedia",
+                "Communication",
+                "Animation"
+            ]
+        },
+        "Architect": {
+            "category": "Architecture",
+            "core": [
+                "Communication",
+                "Mathematics"
+            ],
+            "adv": [
+                "Project Management",
+                "AutoCAD",
+                "Design"
+            ]
+        },
+        "Construction and Infrastructure Management": {
+            "category": "Architecture",
+            "core": [
+                "AutoCAD",
+                "Project Management",
+                "Design"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Mathematics"
+            ]
+        },
+        "Engineering Design": {
+            "category": "Architecture",
+            "core": [
+                "Mathematics",
+                "Project Management",
+                "Leadership",
+                "Creativity"
+            ],
+            "adv": [
+                "Design",
+                "Communication",
+                "AutoCAD",
+                "Python"
+            ]
+        },
+        "Urban and Rural Planning": {
+            "category": "Architecture",
+            "core": [
+                "Mathematics",
+                "Leadership",
+                "Creativity",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Python",
+                "Project Management",
+                "Design",
+                "Communication"
+            ]
+        },
+        "Entrepreneurship": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Communication"
+            ],
+            "adv": [
+                "Multimedia",
+                "Design",
+                "Creativity"
+            ]
+        },
+        "Retailing": {
+            "category": "Design",
+            "core": [
+                "Multimedia",
+                "Design"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication",
+                "Project Management"
+            ]
+        },
+        "Human Resource Management": {
+            "category": "Design",
+            "core": [
+                "Leadership",
+                "Communication",
+                "Design"
+            ],
+            "adv": [
+                "Creativity",
+                "Project Management",
+                "Multimedia"
+            ]
+        },
+        "Supply chain Management / Logistics": {
+            "category": "Design",
+            "core": [
+                "Leadership",
+                "Project Management",
+                "Communication"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Design"
+            ]
+        },
+        "Operations and Logistics": {
+            "category": "Design",
+            "core": [
+                "Design",
+                "Multimedia",
+                "Project Management"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Creativity"
+            ]
+        },
+        "International Business": {
+            "category": "Design",
+            "core": [
+                "Communication",
+                "Design",
+                "Multimedia"
+            ],
+            "adv": [
+                "Leadership",
+                "Creativity",
+                "Project Management"
+            ]
+        },
+        "General Management": {
+            "category": "Design",
+            "core": [
+                "Creativity",
+                "Design",
+                "Leadership"
+            ],
+            "adv": [
+                "Multimedia",
+                "Communication",
+                "Project Management"
+            ]
+        },
+        "Under Grads Management": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Design",
+                "Multimedia"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Creativity"
+            ]
+        },
+        "Actuaries": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Multimedia",
+                "Creativity"
+            ],
+            "adv": [
+                "Communication",
+                "Design",
+                "Leadership"
+            ]
+        },
+        "Fashion Designing": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Communication",
+                "Design"
+            ],
+            "adv": [
+                "Creativity",
+                "Multimedia",
+                "Leadership"
+            ]
+        },
+        "Jewellery Designing": {
+            "category": "Design",
+            "core": [
+                "Creativity",
+                "Design",
+                "Project Management"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Multimedia"
+            ]
+        },
+        "Interior Designing": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Leadership",
+                "Communication"
+            ],
+            "adv": [
+                "Design",
+                "Multimedia",
+                "Creativity"
+            ]
+        },
+        "Industrial / Product Design": {
+            "category": "Design",
+            "core": [
+                "Communication",
+                "Multimedia",
+                "Project Management"
+            ],
+            "adv": [
+                "Creativity",
+                "Leadership",
+                "Design"
+            ]
+        },
+        "Textile and Apparel Production": {
+            "category": "Design",
+            "core": [
+                "Design",
+                "Multimedia",
+                "Project Management"
+            ],
+            "adv": [
+                "Leadership",
+                "Communication",
+                "Creativity"
+            ]
+        },
+        "Visual Merchandising": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Design",
+                "Multimedia"
+            ],
+            "adv": [
+                "Leadership",
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "Fine Arts": {
+            "category": "Design",
+            "core": [
+                "Communication",
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Project Management",
+                "Leadership",
+                "Multimedia"
+            ]
+        },
+        "Applied Arts": {
+            "category": "Design",
+            "core": [
+                "Creativity",
+                "Project Management",
+                "Multimedia"
+            ],
+            "adv": [
+                "Design",
+                "Communication",
+                "Leadership"
+            ]
+        },
+        "Sculpture": {
+            "category": "Design",
+            "core": [
+                "Project Management",
+                "Design",
+                "Leadership"
+            ],
+            "adv": [
+                "Creativity",
+                "Multimedia",
+                "Communication"
+            ]
+        },
+        "Print Making": {
+            "category": "Design",
+            "core": [
+                "Leadership",
+                "Project Management",
+                "Communication"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Design"
+            ]
+        },
+        "Visual Communication": {
+            "category": "Design",
+            "core": [
+                "Creativity",
+                "Multimedia",
+                "Project Management"
+            ],
+            "adv": [
+                "Design",
+                "Communication",
+                "Leadership"
+            ]
+        },
+        "Glass Design": {
+            "category": "Design",
+            "core": [
+                "Design",
+                "Leadership",
+                "Multimedia"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication",
+                "Project Management"
+            ]
+        },
+        "Footwear Design": {
+            "category": "Design",
+            "core": [
+                "Leadership",
+                "Communication",
+                "Design"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Project Management"
+            ]
+        },
+        "Librarian": {
+            "category": "Education & Teaching",
+            "core": [
+                "Public Speaking",
+                "Psychology"
+            ],
+            "adv": [
+                "Counseling",
+                "Management",
+                "Communication"
+            ]
+        },
+        "Elementary Teacher": {
+            "category": "Education & Teaching",
+            "core": [
+                "Communication",
+                "Psychology"
+            ],
+            "adv": [
+                "Management",
+                "Counseling",
+                "Public Speaking"
+            ]
+        },
+        "Nursery Teacher (NTT)": {
+            "category": "Education & Teaching",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Counseling",
+                "Management",
+                "Psychology"
+            ]
+        },
+        "Counselor": {
+            "category": "Education & Teaching",
+            "core": [
+                "Counseling",
+                "Communication"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Psychology",
+                "Management"
+            ]
+        },
+        "Special Educator": {
+            "category": "Education & Teaching",
+            "core": [
+                "Counseling",
+                "Management"
+            ],
+            "adv": [
+                "Psychology",
+                "Public Speaking",
+                "Communication"
+            ]
+        },
+        "Early Childhood Care": {
+            "category": "Education & Teaching",
+            "core": [
+                "Management",
+                "Psychology"
+            ],
+            "adv": [
+                "Communication",
+                "Counseling",
+                "Public Speaking"
+            ]
+        },
+        "Bachelor in Education (B.Ed)": {
+            "category": "Education & Teaching",
+            "core": [
+                "Psychology",
+                "Management"
+            ],
+            "adv": [
+                "Counseling",
+                "Communication",
+                "Public Speaking"
+            ]
+        },
+        "Diploma in Automobile Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "Problem Solving",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Project Management",
+                "Python",
+                "Data Analysis",
+                "Physics"
+            ]
+        },
+        "Diploma in Chemical Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Physics",
+                "Project Management",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Mathematics",
+                "Data Analysis",
+                "Python",
+                "Problem Solving"
+            ]
+        },
+        "Diploma in Civil Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Data Analysis",
+                "Project Management",
+                "Python"
+            ],
+            "adv": [
+                "Physics",
+                "Problem Solving",
+                "AutoCAD",
+                "Mathematics"
+            ]
+        },
+        "Diploma in Computer Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Physics",
+                "Python",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Project Management",
+                "Problem Solving",
+                "AutoCAD",
+                "Mathematics"
+            ]
+        },
+        "Diploma in Electrical Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "Python",
+                "Project Management"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Physics",
+                "Problem Solving",
+                "Data Analysis"
+            ]
+        },
+        "Diploma in Electronics & Communication Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Project Management",
+                "Physics",
+                "Mathematics"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Data Analysis",
+                "Python",
+                "AutoCAD"
+            ]
+        },
+        "Diploma in Digital Electronics": {
+            "category": "Engineering",
+            "core": [
+                "AutoCAD",
+                "Python",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Project Management",
+                "Physics",
+                "Data Analysis",
+                "Mathematics"
+            ]
+        },
+        "Diploma in Garment Fabrication Technology": {
+            "category": "Engineering",
+            "core": [
+                "Problem Solving",
+                "AutoCAD",
+                "Physics"
+            ],
+            "adv": [
+                "Mathematics",
+                "Project Management",
+                "Python",
+                "Data Analysis"
+            ]
+        },
+        "Diploma in Instrumentation & Control": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "Project Management",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Python",
+                "Physics",
+                "Problem Solving",
+                "Data Analysis"
+            ]
+        },
+        "Diploma in Mechanical Engineering": {
+            "category": "Engineering",
+            "core": [
+                "AutoCAD",
+                "Mathematics",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Python",
+                "Physics",
+                "Problem Solving",
+                "Project Management"
+            ]
+        },
+        "Diploma in Polymer Technology": {
+            "category": "Engineering",
+            "core": [
+                "Physics",
+                "Python",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Mathematics",
+                "Data Analysis",
+                "AutoCAD",
+                "Project Management"
+            ]
+        },
+        "Diploma in Printing Technology": {
+            "category": "Engineering",
+            "core": [
+                "AutoCAD",
+                "Physics",
+                "Python"
+            ],
+            "adv": [
+                "Mathematics",
+                "Data Analysis",
+                "Problem Solving",
+                "Project Management"
+            ]
+        },
+        "Diploma in Production Engineering": {
+            "category": "Engineering",
+            "core": [
+                "Problem Solving",
+                "Mathematics",
+                "Python"
+            ],
+            "adv": [
+                "Data Analysis",
+                "AutoCAD",
+                "Physics",
+                "Project Management"
+            ]
+        },
+        "Diploma in Textile Design": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "Design",
+                "AutoCAD",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Project Management",
+                "Creativity",
+                "Problem Solving",
+                "Python",
+                "Physics"
+            ]
+        },
+        "Diploma in Tool & Die Making": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "AutoCAD",
+                "Problem Solving",
+                "Python"
+            ],
+            "adv": [
+                "Project Management",
+                "Creativity",
+                "Data Analysis",
+                "Design",
+                "Physics"
+            ]
+        },
+        "Draughtsman (Civil)": {
+            "category": "Engineering",
+            "core": [
+                "Design",
+                "Problem Solving",
+                "Data Analysis",
+                "Creativity"
+            ],
+            "adv": [
+                "Project Management",
+                "Python",
+                "Physics",
+                "AutoCAD",
+                "Mathematics"
+            ]
+        },
+        "Draughtsman (Mechanical)": {
+            "category": "Engineering",
+            "core": [
+                "Python",
+                "Data Analysis",
+                "Mathematics",
+                "Project Management"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Creativity",
+                "Physics",
+                "Design",
+                "AutoCAD"
+            ]
+        },
+        "Electrician": {
+            "category": "Engineering",
+            "core": [
+                "Problem Solving",
+                "Python",
+                "Creativity",
+                "Mathematics"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Data Analysis",
+                "Physics",
+                "Project Management",
+                "Design"
+            ]
+        },
+        "Electronic Mechanic": {
+            "category": "Engineering",
+            "core": [
+                "Mathematics",
+                "Physics",
+                "Project Management",
+                "Creativity"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Python",
+                "AutoCAD",
+                "Problem Solving",
+                "Design"
+            ]
+        },
+        "Fitter": {
+            "category": "Engineering",
+            "core": [
+                "Design",
+                "Project Management",
+                "Problem Solving",
+                "Physics"
+            ],
+            "adv": [
+                "Mathematics",
+                "Python",
+                "Creativity",
+                "Data Analysis",
+                "AutoCAD"
+            ]
+        },
+        "Instrument Mechanic": {
+            "category": "Engineering",
+            "core": [
+                "Design",
+                "AutoCAD",
+                "Python",
+                "Physics"
+            ],
+            "adv": [
+                "Mathematics",
+                "Project Management",
+                "Data Analysis",
+                "Problem Solving",
+                "Creativity"
+            ]
+        },
+        "Machinist": {
+            "category": "Engineering",
+            "core": [
+                "Data Analysis",
+                "Python",
+                "AutoCAD",
+                "Project Management"
+            ],
+            "adv": [
+                "Physics",
+                "Problem Solving",
+                "Design",
+                "Mathematics",
+                "Creativity"
+            ]
+        },
+        "Mechanic Auto Body Painting": {
+            "category": "Engineering",
+            "core": [
+                "Project Management",
+                "Mathematics",
+                "Python",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Design",
+                "Physics",
+                "Problem Solving",
+                "Creativity",
+                "Data Analysis"
+            ]
+        },
+        "Mechanic Auto Body Repair": {
+            "category": "Engineering",
+            "core": [
+                "Python",
+                "Mathematics",
+                "Problem Solving",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Creativity",
+                "Design",
+                "Physics",
+                "Project Management"
+            ]
+        },
+        "Mechanic Diesel": {
+            "category": "Engineering",
+            "core": [
+                "Design",
+                "Project Management",
+                "Creativity",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Python",
+                "Physics",
+                "Mathematics",
+                "AutoCAD",
+                "Data Analysis"
+            ]
+        },
+        "Mechanic Motor Vehicle": {
+            "category": "Engineering",
+            "core": [
+                "Python",
+                "Creativity",
+                "Physics",
+                "Mathematics"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Data Analysis",
+                "Project Management",
+                "AutoCAD",
+                "Design"
+            ]
+        },
+        "Refrigeration & Air Conditioning": {
+            "category": "Engineering",
+            "core": [
+                "Creativity",
+                "Problem Solving",
+                "AutoCAD",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Project Management",
+                "Mathematics",
+                "Physics",
+                "Python",
+                "Design"
+            ]
+        },
+        "Sewing Technology": {
+            "category": "Engineering",
+            "core": [
+                "Python",
+                "Design",
+                "Problem Solving",
+                "Mathematics"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Creativity",
+                "Data Analysis",
+                "Physics",
+                "Project Management"
+            ]
+        },
+        "Turner": {
+            "category": "Engineering",
+            "core": [
+                "AutoCAD",
+                "Design",
+                "Python",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Project Management",
+                "Creativity",
+                "Problem Solving",
+                "Mathematics",
+                "Physics"
+            ]
+        },
+        "Welder": {
+            "category": "Engineering",
+            "core": [
+                "Physics",
+                "Design",
+                "Python",
+                "Creativity"
+            ],
+            "adv": [
+                "Mathematics",
+                "Problem Solving",
+                "Data Analysis",
+                "Project Management",
+                "AutoCAD"
+            ]
+        },
+        "Company Secretary": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Financial Analysis",
+                "Mathematics"
+            ],
+            "adv": [
+                "Risk Management",
+                "Accounting",
+                "Data Analysis"
+            ]
+        },
+        "Charted Accountancy": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Data Analysis",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Accounting",
+                "Mathematics",
+                "Risk Management"
+            ]
+        },
+        "Cost & Work Accountancy": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Financial Analysis",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Risk Management",
+                "Accounting",
+                "Mathematics"
+            ]
+        },
+        "Insurance": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Financial Analysis",
+                "Risk Management"
+            ],
+            "adv": [
+                "Accounting",
+                "Data Analysis",
+                "Mathematics"
+            ]
+        },
+        "Banking Services": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Accounting",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Risk Management",
+                "Financial Analysis",
+                "Mathematics"
+            ]
+        },
+        "Investment Banking": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Mathematics",
+                "Accounting"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Financial Analysis",
+                "Risk Management"
+            ]
+        },
+        "Stock Broker": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Risk Management",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Mathematics",
+                "Accounting"
+            ]
+        },
+        "Portfolio Management": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Data Analysis",
+                "Accounting",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Risk Management",
+                "Project Management",
+                "Leadership",
+                "Mathematics"
+            ]
+        },
+        "Microfinance\u2019": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Leadership",
+                "Mathematics",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Accounting",
+                "Project Management",
+                "Data Analysis",
+                "Risk Management"
+            ]
+        },
+        "Economics": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Project Management",
+                "Risk Management",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Leadership",
+                "Data Analysis",
+                "Mathematics",
+                "Accounting"
+            ]
+        },
+        "Finance": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Mathematics",
+                "Leadership",
+                "Project Management"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Risk Management",
+                "Financial Analysis",
+                "Accounting"
+            ]
+        },
+        "Risk Management": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Financial Analysis",
+                "Project Management",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Risk Management",
+                "Mathematics",
+                "Accounting",
+                "Leadership"
+            ]
+        },
+        "Equity Research": {
+            "category": "Finance Accounting & Banking",
+            "core": [
+                "Accounting",
+                "Project Management",
+                "Mathematics"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Financial Analysis",
+                "Leadership",
+                "Risk Management"
+            ]
+        },
+        "Adventure Sports": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Biology",
+                "Management"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Communication"
+            ]
+        },
+        "Sports Management": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Communication",
+                "Biology",
+                "Leadership"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Project Management",
+                "Management"
+            ]
+        },
+        "Sports Medicine": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Project Management",
+                "Management",
+                "Communication"
+            ],
+            "adv": [
+                "Leadership",
+                "Biology",
+                "Healthcare Management"
+            ]
+        },
+        "Sports Psychology": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Leadership",
+                "Project Management",
+                "Management"
+            ],
+            "adv": [
+                "Biology",
+                "Healthcare Management",
+                "Communication"
+            ]
+        },
+        "Physiotherapist": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Project Management",
+                "Management",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Biology",
+                "Leadership",
+                "Communication"
+            ]
+        },
+        "Nutritionist": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Leadership",
+                "Communication",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Management",
+                "Project Management",
+                "Biology"
+            ]
+        },
+        "Exercise Physiology": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Leadership",
+                "Communication",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Management",
+                "Project Management"
+            ]
+        },
+        "Sports Bio Mechanics": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Management",
+                "Leadership",
+                "Biology"
+            ],
+            "adv": [
+                "Project Management",
+                "Healthcare Management",
+                "Communication"
+            ]
+        },
+        "Health Sciences & Fitness": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Communication",
+                "Biology",
+                "Project Management"
+            ],
+            "adv": [
+                "Management",
+                "Healthcare Management",
+                "Leadership"
+            ]
+        },
+        "Sports Science": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Leadership",
+                "Communication",
+                "Biology"
+            ],
+            "adv": [
+                "Project Management",
+                "Management",
+                "Healthcare Management"
+            ]
+        },
+        "Sports Coach": {
+            "category": "Fitness & well-being",
+            "core": [
+                "Leadership",
+                "Biology",
+                "Management"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Communication",
+                "Project Management"
+            ]
+        },
+        "Border Security Forces": {
+            "category": "Government & Defence",
+            "core": [
+                "Physical Fitness",
+                "Leadership"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Communication"
+            ]
+        },
+        "Central Reserve Police Force": {
+            "category": "Government & Defence",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Leadership",
+                "Physical Fitness"
+            ]
+        },
+        "Police Officer": {
+            "category": "Government & Defence",
+            "core": [
+                "Leadership",
+                "Physical Fitness"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Communication"
+            ]
+        },
+        "Civil Services": {
+            "category": "Government & Defence",
+            "core": [
+                "Problem Solving",
+                "Physical Fitness"
+            ],
+            "adv": [
+                "Leadership",
+                "Communication"
+            ]
+        },
+        "Merchant Navy": {
+            "category": "Government & Defence",
+            "core": [
+                "Communication",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Physical Fitness",
+                "Leadership"
+            ]
+        },
+        "Coast Guard": {
+            "category": "Government & Defence",
+            "core": [
+                "Physical Fitness",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Leadership",
+                "Communication"
+            ]
+        },
+        "Indian Army": {
+            "category": "Government & Defence",
+            "core": [
+                "Physical Fitness",
+                "Communication"
+            ],
+            "adv": [
+                "Leadership",
+                "Problem Solving"
+            ]
+        },
+        "Air Force": {
+            "category": "Government & Defence",
+            "core": [
+                "Communication",
+                "Leadership"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Physical Fitness"
+            ]
+        },
+        "Income Tax": {
+            "category": "Government & Defence",
+            "core": [
+                "Communication",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Leadership",
+                "Physical Fitness"
+            ]
+        },
+        "Pilot": {
+            "category": "Government & Defence",
+            "core": [
+                "Physical Fitness",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership"
+            ]
+        },
+        "Software Engineer": {
+            "category": "Journalism",
+            "core": [
+                "Public Speaking",
+                "Mathematics",
+                "Creative Writing"
+            ],
+            "adv": [
+                "Python",
+                "Communication",
+                "Data Analysis"
+            ]
+        },
+        "Application Programmers": {
+            "category": "Journalism",
+            "core": [
+                "Creative Writing",
+                "Public Speaking",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Mathematics",
+                "Communication",
+                "Python"
+            ]
+        },
+        "Network Administrator": {
+            "category": "Journalism",
+            "core": [
+                "Data Analysis",
+                "Creative Writing",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Python",
+                "Mathematics"
+            ]
+        },
+        "System Architect": {
+            "category": "Journalism",
+            "core": [
+                "Python",
+                "Public Speaking",
+                "Mathematics"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Creative Writing",
+                "Communication"
+            ]
+        },
+        "Computer Science & Engineering": {
+            "category": "Journalism",
+            "core": [
+                "Python",
+                "Data Analysis",
+                "Communication"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Mathematics",
+                "Creative Writing"
+            ]
+        },
+        "Information & Communication Technology": {
+            "category": "Journalism",
+            "core": [
+                "Data Analysis",
+                "Python",
+                "Communication"
+            ],
+            "adv": [
+                "Mathematics",
+                "Creative Writing",
+                "Public Speaking"
+            ]
+        },
+        "Copywriting": {
+            "category": "Journalism",
+            "core": [
+                "Communication",
+                "Creative Writing",
+                "Mathematics"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Data Analysis",
+                "Python"
+            ]
+        },
+        "Creative Writing": {
+            "category": "Journalism",
+            "core": [
+                "Data Analysis",
+                "Creative Writing",
+                "Communication"
+            ],
+            "adv": [
+                "Python",
+                "Public Speaking",
+                "Mathematics"
+            ]
+        },
+        "Fashion Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Public Speaking",
+                "Communication",
+                "Mathematics"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Python",
+                "Creative Writing"
+            ]
+        },
+        "Internet Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Public Speaking",
+                "Creative Writing",
+                "Python"
+            ],
+            "adv": [
+                "Communication",
+                "Mathematics",
+                "Data Analysis"
+            ]
+        },
+        "Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Mathematics",
+                "Python",
+                "Communication"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Public Speaking",
+                "Creative Writing"
+            ]
+        },
+        "Sports Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Python",
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Mathematics",
+                "Creative Writing",
+                "Data Analysis"
+            ]
+        },
+        "Hindi Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Communication",
+                "Data Analysis",
+                "Python"
+            ],
+            "adv": [
+                "Mathematics",
+                "Creative Writing",
+                "Public Speaking"
+            ]
+        },
+        "English Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Data Analysis",
+                "Mathematics",
+                "Python"
+            ],
+            "adv": [
+                "Creative Writing",
+                "Public Speaking",
+                "Communication"
+            ]
+        },
+        "Urdu Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Public Speaking",
+                "Data Analysis",
+                "Communication"
+            ],
+            "adv": [
+                "Mathematics",
+                "Creative Writing",
+                "Python"
+            ]
+        },
+        "Odia Journalism": {
+            "category": "Journalism",
+            "core": [
+                "Creative Writing",
+                "Communication",
+                "Python"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Mathematics",
+                "Public Speaking"
+            ]
+        },
+        "Corporate Law": {
+            "category": "Legal Studies",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Legal Research"
+            ]
+        },
+        "Cyber Law": {
+            "category": "Legal Studies",
+            "core": [
+                "Public Speaking",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication",
+                "Legal Research"
+            ]
+        },
+        "Intellectual Property Law": {
+            "category": "Legal Studies",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Legal Research"
+            ]
+        },
+        "Marine/Maritime Law": {
+            "category": "Legal Studies",
+            "core": [
+                "Communication",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Legal Research"
+            ]
+        },
+        "Medical law & Ethics": {
+            "category": "Legal Studies",
+            "core": [
+                "Public Speaking",
+                "Legal Research"
+            ],
+            "adv": [
+                "Communication",
+                "Problem Solving"
+            ]
+        },
+        "Civil Law": {
+            "category": "Legal Studies",
+            "core": [
+                "Public Speaking",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication",
+                "Legal Research"
+            ]
+        },
+        "Human Rights": {
+            "category": "Legal Studies",
+            "core": [
+                "Problem Solving",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Legal Research"
+            ]
+        },
+        "Patents": {
+            "category": "Legal Studies",
+            "core": [
+                "Legal Research",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication",
+                "Public Speaking"
+            ]
+        },
+        "Advertising": {
+            "category": "Mass Communication",
+            "core": [
+                "Marketing",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "Public Relations": {
+            "category": "Mass Communication",
+            "core": [
+                "Public Speaking",
+                "Creativity"
+            ],
+            "adv": [
+                "Communication",
+                "Marketing",
+                "Multimedia"
+            ]
+        },
+        "Media Management": {
+            "category": "Mass Communication",
+            "core": [
+                "Creativity",
+                "Multimedia",
+                "Project Management"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Marketing",
+                "Communication",
+                "Leadership"
+            ]
+        },
+        "Film Making": {
+            "category": "Mass Communication",
+            "core": [
+                "Leadership",
+                "Public Speaking",
+                "Marketing"
+            ],
+            "adv": [
+                "Project Management",
+                "Multimedia",
+                "Communication",
+                "Creativity"
+            ]
+        },
+        "Publishing & Printing": {
+            "category": "Mass Communication",
+            "core": [
+                "Multimedia",
+                "Leadership",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Creativity",
+                "Project Management",
+                "Marketing",
+                "Communication"
+            ]
+        },
+        "Radio Jockeying": {
+            "category": "Mass Communication",
+            "core": [
+                "Multimedia",
+                "Project Management",
+                "Marketing"
+            ],
+            "adv": [
+                "Leadership",
+                "Public Speaking",
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "Electronic Journalism": {
+            "category": "Mass Communication",
+            "core": [
+                "Creativity",
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Project Management",
+                "Leadership",
+                "Marketing",
+                "Multimedia"
+            ]
+        },
+        "Print Journalism": {
+            "category": "Mass Communication",
+            "core": [
+                "Public Speaking",
+                "Communication",
+                "Project Management"
+            ],
+            "adv": [
+                "Marketing",
+                "Creativity",
+                "Leadership",
+                "Multimedia"
+            ]
+        },
+        "Media Studies": {
+            "category": "Mass Communication",
+            "core": [
+                "Project Management",
+                "Public Speaking",
+                "Marketing"
+            ],
+            "adv": [
+                "Creativity",
+                "Multimedia",
+                "Communication",
+                "Leadership"
+            ]
+        },
+        "TV Anchoring": {
+            "category": "Mass Communication",
+            "core": [
+                "Project Management",
+                "Communication",
+                "Marketing"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity",
+                "Public Speaking",
+                "Leadership"
+            ]
+        },
+        "Acting": {
+            "category": "Mass Communication",
+            "core": [
+                "Multimedia",
+                "Leadership",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Marketing",
+                "Project Management",
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "MBBS (Bachelor of Medicine Bachelor of Surgery)": {
+            "category": "Medical Sciences",
+            "core": [
+                "Biology",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Anatomy",
+                "Patient Care"
+            ]
+        },
+        "General Medicine": {
+            "category": "Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Problem Solving",
+                "Anatomy"
+            ]
+        },
+        "Obstetrics & Gynecology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Healthcare Management",
+                "Anatomy"
+            ],
+            "adv": [
+                "Patient Care",
+                "Biology",
+                "Problem Solving"
+            ]
+        },
+        "Radio Diagnosis": {
+            "category": "Medical Sciences",
+            "core": [
+                "Healthcare Management",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Patient Care",
+                "Biology",
+                "Anatomy"
+            ]
+        },
+        "Anesthesiology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Patient Care"
+            ],
+            "adv": [
+                "Biology",
+                "Problem Solving",
+                "Healthcare Management"
+            ]
+        },
+        "Radio Therapy": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Biology",
+                "Patient Care"
+            ]
+        },
+        "Anatomy": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Biology"
+            ],
+            "adv": [
+                "Patient Care",
+                "Healthcare Management",
+                "Problem Solving"
+            ]
+        },
+        "Physiology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Problem Solving",
+                "Patient Care"
+            ],
+            "adv": [
+                "Anatomy",
+                "Biology",
+                "Healthcare Management"
+            ]
+        },
+        "Pathology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Anatomy"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Biology",
+                "Problem Solving"
+            ]
+        },
+        "Pharmacology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Biology",
+                "Patient Care"
+            ]
+        },
+        "Microbiology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Problem Solving",
+                "Biology"
+            ],
+            "adv": [
+                "Patient Care",
+                "Healthcare Management",
+                "Anatomy"
+            ]
+        },
+        "Forensic Medicine & Toxicology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Healthcare Management",
+                "Patient Care"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Biology",
+                "Anatomy"
+            ]
+        },
+        "Preventive & Social Medicine": {
+            "category": "Medical Sciences",
+            "core": [
+                "Biology",
+                "Patient Care"
+            ],
+            "adv": [
+                "Anatomy",
+                "Healthcare Management",
+                "Problem Solving"
+            ]
+        },
+        "Surgery": {
+            "category": "Medical Sciences",
+            "core": [
+                "Problem Solving",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Patient Care",
+                "Anatomy"
+            ]
+        },
+        "Orthopaedics": {
+            "category": "Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Anatomy",
+                "Problem Solving"
+            ]
+        },
+        "Ophthalmology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Biology"
+            ],
+            "adv": [
+                "Patient Care",
+                "Problem Solving",
+                "Healthcare Management"
+            ]
+        },
+        "B.D.S. (Bachelor of Dental Surgery)": {
+            "category": "Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Anatomy"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Problem Solving",
+                "Biology"
+            ]
+        },
+        "Periodontology": {
+            "category": "Medical Sciences",
+            "core": [
+                "Patient Care",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Anatomy",
+                "Problem Solving"
+            ]
+        },
+        "Orthodontics & Dentofacial Orthopedics": {
+            "category": "Medical Sciences",
+            "core": [
+                "Anatomy",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Biology",
+                "Patient Care",
+                "Healthcare Management"
+            ]
+        },
+        "Dance": {
+            "category": "Performing Arts",
+            "core": [
+                "Design",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Creativity"
+            ]
+        },
+        "Music": {
+            "category": "Performing Arts",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Design",
+                "Creativity"
+            ]
+        },
+        "Dramatics": {
+            "category": "Performing Arts",
+            "core": [
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Communication"
+            ]
+        },
+        "Modelling": {
+            "category": "Performing Arts",
+            "core": [
+                "Communication",
+                "Design"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Creativity"
+            ]
+        },
+        "Photography": {
+            "category": "Performing Arts",
+            "core": [
+                "Creativity",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Design"
+            ]
+        },
+        "International Marketing": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Management",
+                "Communication"
+            ],
+            "adv": [
+                "Marketing",
+                "Customer Service",
+                "Data Analysis"
+            ]
+        },
+        "Service Sales": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Marketing",
+                "Customer Service"
+            ],
+            "adv": [
+                "Management",
+                "Communication",
+                "Data Analysis"
+            ]
+        },
+        "Direct Marketing": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Data Analysis",
+                "Customer Service"
+            ],
+            "adv": [
+                "Management",
+                "Communication",
+                "Marketing"
+            ]
+        },
+        "Product Marketing": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Customer Service",
+                "Management"
+            ],
+            "adv": [
+                "Communication",
+                "Marketing",
+                "Data Analysis"
+            ]
+        },
+        "E-Marketing/Internet Marketing & Digital Marketing": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Customer Service",
+                "Marketing"
+            ],
+            "adv": [
+                "Communication",
+                "Management",
+                "Data Analysis"
+            ]
+        },
+        "Media Marketing": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Marketing",
+                "Customer Service"
+            ],
+            "adv": [
+                "Communication",
+                "Management",
+                "Data Analysis"
+            ]
+        },
+        "Operation Analyst": {
+            "category": "Sales & Marketing",
+            "core": [
+                "Customer Service",
+                "Data Analysis",
+                "Marketing"
+            ],
+            "adv": [
+                "SQL",
+                "Management",
+                "Communication"
+            ]
+        },
+        "Data Analyst": {
+            "category": "Sales & Marketing",
+            "core": [
+                "SQL",
+                "Data Analysis",
+                "Communication"
+            ],
+            "adv": [
+                "Customer Service",
+                "Marketing",
+                "Management"
+            ]
+        },
+        "Mathematics": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Biology",
+                "Mathematics",
+                "Physics"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Data Analysis",
+                "Research"
+            ]
+        },
+        "Statistics": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Data Analysis",
+                "Mathematics",
+                "Biology"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Research",
+                "Physics"
+            ]
+        },
+        "Biology": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Data Analysis",
+                "Physics",
+                "Biology"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Mathematics",
+                "Research"
+            ]
+        },
+        "Micro-Biology": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Mathematics",
+                "Biology",
+                "Physics"
+            ],
+            "adv": [
+                "Research",
+                "Problem Solving",
+                "Data Analysis"
+            ]
+        },
+        "Physics": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Physics",
+                "Problem Solving",
+                "Mathematics"
+            ],
+            "adv": [
+                "Research",
+                "Biology",
+                "Data Analysis"
+            ]
+        },
+        "Chemistry": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Research",
+                "Mathematics",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Physics",
+                "Biology",
+                "Problem Solving"
+            ]
+        },
+        "Oceanography": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Mathematics",
+                "Biology",
+                "Research"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Physics",
+                "Data Analysis"
+            ]
+        },
+        "Life Sciences": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Problem Solving",
+                "Physics",
+                "Research"
+            ],
+            "adv": [
+                "Mathematics",
+                "Data Analysis",
+                "Biology"
+            ]
+        },
+        "Astronomy": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Biology",
+                "Physics",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Mathematics",
+                "Research",
+                "Problem Solving"
+            ]
+        },
+        "Forensic Scientist": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Data Analysis",
+                "Mathematics",
+                "Biology"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Physics",
+                "Research"
+            ]
+        },
+        "Zoology": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Physics",
+                "Problem Solving",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Research",
+                "Biology",
+                "Mathematics"
+            ]
+        },
+        "Botany": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Data Analysis",
+                "Biology",
+                "Physics"
+            ],
+            "adv": [
+                "Research",
+                "Problem Solving",
+                "Mathematics"
+            ]
+        },
+        "Bacteriologist": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Research",
+                "Problem Solving",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Mathematics",
+                "Physics",
+                "Biology"
+            ]
+        },
+        "Bioinformatics": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Mathematics",
+                "Problem Solving",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Research",
+                "Physics",
+                "Biology"
+            ]
+        },
+        "Biotechnology": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Biology",
+                "Problem Solving",
+                "Mathematics"
+            ],
+            "adv": [
+                "Physics",
+                "Data Analysis",
+                "Research"
+            ]
+        },
+        "Environmental Science": {
+            "category": "Science & Mathematics",
+            "core": [
+                "Mathematics",
+                "Biology",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Research",
+                "Physics",
+                "Data Analysis"
+            ]
+        },
+        "Psychology": {
+            "category": "Social Sciences",
+            "core": [
+                "Communication",
+                "Research"
+            ],
+            "adv": [
+                "Psychology",
+                "Public Speaking",
+                "Data Analysis"
+            ]
+        },
+        "Sociology": {
+            "category": "Social Sciences",
+            "core": [
+                "Psychology",
+                "Communication"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Public Speaking",
+                "Research"
+            ]
+        },
+        "Anthropology": {
+            "category": "Social Sciences",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Psychology",
+                "Research",
+                "Data Analysis"
+            ]
+        },
+        "History": {
+            "category": "Social Sciences",
+            "core": [
+                "Psychology",
+                "Research"
+            ],
+            "adv": [
+                "Data Analysis",
+                "Communication",
+                "Public Speaking"
+            ]
+        },
+        "Political Science": {
+            "category": "Social Sciences",
+            "core": [
+                "Psychology",
+                "Communication"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Research",
+                "Data Analysis"
+            ]
+        },
+        "English Literature": {
+            "category": "Social Sciences",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Psychology",
+                "Research",
+                "Data Analysis"
+            ]
+        },
+        "Hindi Literature": {
+            "category": "Social Sciences",
+            "core": [
+                "Data Analysis",
+                "Communication"
+            ],
+            "adv": [
+                "Psychology",
+                "Public Speaking",
+                "Research"
+            ]
+        },
+        "Sanskrit Literature": {
+            "category": "Social Sciences",
+            "core": [
+                "Communication",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Research",
+                "Psychology"
+            ]
+        },
+        "Liberal Arts": {
+            "category": "Social Sciences",
+            "core": [
+                "Research",
+                "Design",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Psychology",
+                "Communication",
+                "Creativity"
+            ]
+        },
+        "Archaeology": {
+            "category": "Social Sciences",
+            "core": [
+                "Design",
+                "Creativity",
+                "Communication"
+            ],
+            "adv": [
+                "Research",
+                "Data Analysis",
+                "Public Speaking",
+                "Psychology"
+            ]
+        },
+        "Geography": {
+            "category": "Social Sciences",
+            "core": [
+                "Communication",
+                "Research",
+                "Creativity"
+            ],
+            "adv": [
+                "Design",
+                "Psychology",
+                "Data Analysis",
+                "Public Speaking"
+            ]
+        },
+        "Social Work": {
+            "category": "Social Sciences",
+            "core": [
+                "Research",
+                "Creativity",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Data Analysis",
+                "Design",
+                "Psychology"
+            ]
+        },
+        "Library & Information Management": {
+            "category": "Social Sciences",
+            "core": [
+                "Leadership",
+                "Psychology",
+                "Project Management",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Research",
+                "Public Speaking",
+                "Creativity",
+                "Design",
+                "Communication"
+            ]
+        },
+        "Philosophy": {
+            "category": "Social Sciences",
+            "core": [
+                "Project Management",
+                "Research",
+                "Leadership",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Psychology",
+                "Creativity",
+                "Communication",
+                "Design",
+                "Public Speaking"
+            ]
+        },
+        "Industrial/Organizational Psychology": {
+            "category": "Social Sciences",
+            "core": [
+                "Research",
+                "Communication",
+                "Design",
+                "Data Analysis"
+            ],
+            "adv": [
+                "Leadership",
+                "Creativity",
+                "Project Management",
+                "Public Speaking",
+                "Psychology"
+            ]
+        },
+        "Clinical Psychology": {
+            "category": "Social Sciences",
+            "core": [
+                "Communication",
+                "Design",
+                "Research",
+                "Psychology"
+            ],
+            "adv": [
+                "Leadership",
+                "Project Management",
+                "Creativity",
+                "Data Analysis",
+                "Public Speaking"
+            ]
+        },
+        "International Relations": {
+            "category": "Social Sciences",
+            "core": [
+                "Psychology",
+                "Data Analysis",
+                "Communication",
+                "Creativity"
+            ],
+            "adv": [
+                "Leadership",
+                "Public Speaking",
+                "Project Management",
+                "Design",
+                "Research"
+            ]
+        },
+        "Education": {
+            "category": "Social Sciences",
+            "core": [
+                "Project Management",
+                "Creativity",
+                "Design",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Psychology",
+                "Leadership",
+                "Data Analysis",
+                "Research",
+                "Communication"
+            ]
+        },
+        "Development Practice": {
+            "category": "Social Sciences",
+            "core": [
+                "Communication",
+                "Research",
+                "Psychology",
+                "Leadership"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Project Management",
+                "Creativity",
+                "Data Analysis",
+                "Design"
+            ]
+        },
+        "Foreign Language": {
+            "category": "Social Sciences",
+            "core": [
+                "Leadership",
+                "Project Management",
+                "Research",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication",
+                "Psychology",
+                "Design",
+                "Data Analysis"
+            ]
+        },
+        "Dance Therapist": {
+            "category": "Social Sciences",
+            "core": [
+                "Data Analysis",
+                "Design",
+                "Psychology",
+                "Creativity"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Research",
+                "Communication",
+                "Leadership",
+                "Project Management"
+            ]
+        },
+        "Dairy Worker": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Dairy Farmer": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Coffee & Tea Plantation": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Banana Worker": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Floriculturist": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Gardener": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Poultry": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Fisheries": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Livestock Worker": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Paddy Farmer": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Management",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Soil Conservationist": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Management",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Ploughman": {
+            "category": "Agriculture & Food",
+            "core": [
+                "Communication",
+                "Management"
+            ],
+            "adv": [
+                "Problem Solving"
+            ]
+        },
+        "Cardiac Care Technician": {
+            "category": "Healthcare",
+            "core": [
+                "Communication",
+                "Patient Care"
+            ],
+            "adv": [
+                "Biology",
+                "Healthcare Management"
+            ]
+        },
+        "X- Ray technician": {
+            "category": "Healthcare",
+            "core": [
+                "Patient Care",
+                "Biology"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Communication"
+            ]
+        },
+        "Dental assistant": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Communication"
+            ],
+            "adv": [
+                "Patient Care",
+                "Healthcare Management"
+            ]
+        },
+        "Dialysis Technician": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Communication"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Patient Care"
+            ]
+        },
+        "Pharmacy technician": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Communication"
+            ],
+            "adv": [
+                "Patient Care",
+                "Healthcare Management"
+            ]
+        },
+        "Dietician Assistant": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Patient Care",
+                "Communication"
+            ]
+        },
+        "Radiology Technician": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Patient Care"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Communication"
+            ]
+        },
+        "Stenography": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Communication",
+                "Patient Care"
+            ]
+        },
+        "Physiotherapy": {
+            "category": "Healthcare",
+            "core": [
+                "Healthcare Management",
+                "Patient Care"
+            ],
+            "adv": [
+                "Biology",
+                "Communication"
+            ]
+        },
+        "Medical Lab Technology": {
+            "category": "Healthcare",
+            "core": [
+                "Communication",
+                "Mathematics",
+                "Patient Care"
+            ],
+            "adv": [
+                "Python",
+                "Biology",
+                "Healthcare Management"
+            ]
+        },
+        "Anesthesia Technology": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Healthcare Management",
+                "Mathematics"
+            ],
+            "adv": [
+                "Patient Care",
+                "Communication",
+                "Python"
+            ]
+        },
+        "Pulmonary Technology": {
+            "category": "Healthcare",
+            "core": [
+                "Communication",
+                "Biology",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Python",
+                "Patient Care",
+                "Mathematics"
+            ]
+        },
+        "Optometrician": {
+            "category": "Healthcare",
+            "core": [
+                "Communication",
+                "Biology",
+                "Mathematics"
+            ],
+            "adv": [
+                "Healthcare Management",
+                "Python",
+                "Patient Care"
+            ]
+        },
+        "Pharmacist": {
+            "category": "Healthcare",
+            "core": [
+                "Biology",
+                "Communication",
+                "Healthcare Management"
+            ],
+            "adv": [
+                "Python",
+                "Mathematics",
+                "Patient Care"
+            ]
+        },
+        "Diabetes Educator": {
+            "category": "Healthcare",
+            "core": [
+                "Python",
+                "Healthcare Management",
+                "Communication"
+            ],
+            "adv": [
+                "Biology",
+                "Mathematics",
+                "Patient Care"
+            ]
+        },
+        "Game Designing & Development": {
+            "category": "Animation & Graphics",
+            "core": [
+                "Creativity",
+                "Communication"
+            ],
+            "adv": [
+                "Design",
+                "Problem Solving",
+                "Management"
+            ]
+        },
+        "CAD Designer": {
+            "category": "Animation & Graphics",
+            "core": [
+                "Problem Solving",
+                "Management"
+            ],
+            "adv": [
+                "Design",
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "Assistant Scaffolder": {
+            "category": "Construction",
+            "core": [
+                "Mathematics",
+                "Project Management"
+            ],
+            "adv": [
+                "Problem Solving",
+                "AutoCAD"
+            ]
+        },
+        "Carpenter": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "Problem Solving"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Mathematics"
+            ]
+        },
+        "Plumber": {
+            "category": "Construction",
+            "core": [
+                "Problem Solving",
+                "Project Management"
+            ],
+            "adv": [
+                "Mathematics",
+                "AutoCAD"
+            ]
+        },
+        "Construction laboratory Technician": {
+            "category": "Construction",
+            "core": [
+                "Problem Solving",
+                "Project Management"
+            ],
+            "adv": [
+                "Mathematics",
+                "AutoCAD"
+            ]
+        },
+        "Concrete Moulder": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "Mathematics"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Problem Solving"
+            ]
+        },
+        "Painter": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Mathematics",
+                "Problem Solving"
+            ]
+        },
+        "Plasterer": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "Mathematics"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Problem Solving"
+            ]
+        },
+        "Contractor": {
+            "category": "Construction",
+            "core": [
+                "Problem Solving",
+                "Project Management"
+            ],
+            "adv": [
+                "Mathematics",
+                "AutoCAD"
+            ]
+        },
+        "Thatcher": {
+            "category": "Construction",
+            "core": [
+                "Problem Solving",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Mathematics",
+                "Project Management"
+            ]
+        },
+        "Mason": {
+            "category": "Construction",
+            "core": [
+                "Mathematics",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Project Management",
+                "Problem Solving"
+            ]
+        },
+        "Foreman": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "Mathematics"
+            ],
+            "adv": [
+                "AutoCAD",
+                "Problem Solving"
+            ]
+        },
+        "Cartographer": {
+            "category": "Construction",
+            "core": [
+                "Project Management",
+                "AutoCAD"
+            ],
+            "adv": [
+                "Mathematics",
+                "Problem Solving"
+            ]
+        },
+        "Draught person": {
+            "category": "Construction",
+            "core": [
+                "Problem Solving",
+                "Project Management"
+            ],
+            "adv": [
+                "Mathematics",
+                "AutoCAD"
+            ]
+        },
+        "Human Resource": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Communication",
+                "Leadership"
+            ],
+            "adv": [
+                "Management",
+                "Marketing"
+            ]
+        },
+        "Marketing": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Communication",
+                "Management"
+            ],
+            "adv": [
+                "Marketing",
+                "Leadership"
+            ]
+        },
+        "Entrepreneur/Businessman": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Communication",
+                "Marketing"
+            ],
+            "adv": [
+                "Management",
+                "Leadership"
+            ]
+        },
+        "Operations": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Management",
+                "Leadership"
+            ],
+            "adv": [
+                "Communication",
+                "Marketing"
+            ]
+        },
+        "Office Management (Modern office practice)": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Communication",
+                "Leadership"
+            ],
+            "adv": [
+                "Project Management",
+                "Marketing",
+                "Management"
+            ]
+        },
+        "Supply Chain/Logistics/Warehouse": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Communication",
+                "Leadership"
+            ],
+            "adv": [
+                "Management",
+                "Marketing",
+                "Project Management"
+            ]
+        },
+        "Event Management": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Project Management",
+                "Management"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Marketing"
+            ]
+        },
+        "Retail Services / Retail Management": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Leadership",
+                "Marketing"
+            ],
+            "adv": [
+                "Management",
+                "Communication",
+                "Project Management"
+            ]
+        },
+        "Women Entrepreneurship Program": {
+            "category": "Management & Entrepreneurship",
+            "core": [
+                "Project Management",
+                "Marketing"
+            ],
+            "adv": [
+                "Communication",
+                "Leadership",
+                "Management"
+            ]
+        },
+        "Leather Designer": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Design",
+                "Creativity"
+            ],
+            "adv": [
+                "Project Management"
+            ]
+        },
+        "Footwear Cutter": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Design",
+                "Project Management"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Leather goods Stitcher": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Design",
+                "Creativity"
+            ],
+            "adv": [
+                "Project Management"
+            ]
+        },
+        "Tailoring": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Project Management"
+            ]
+        },
+        "Fashion Designer": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Design",
+                "Creativity"
+            ],
+            "adv": [
+                "Project Management"
+            ]
+        },
+        "Fabric Cutter": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Design",
+                "Project Management"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Sewing Machine Operator": {
+            "category": "Leather & Apparel",
+            "core": [
+                "Project Management",
+                "Design"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Accounts Executive (Accountant)": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Communication",
+                "Accounting"
+            ],
+            "adv": [
+                "Financial Analysis",
+                "Mathematics"
+            ]
+        },
+        "Banking Correspondent": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Financial Analysis",
+                "Accounting"
+            ],
+            "adv": [
+                "Mathematics",
+                "Communication"
+            ]
+        },
+        "Bank Clerk": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Mathematics",
+                "Accounting"
+            ],
+            "adv": [
+                "Communication",
+                "Financial Analysis"
+            ]
+        },
+        "Micro Finance Executive": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Accounting",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Communication",
+                "Mathematics"
+            ]
+        },
+        "Tally Professional": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Mathematics",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Accounting",
+                "Communication"
+            ]
+        },
+        "Mutual Fund Agent": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Financial Analysis",
+                "Accounting"
+            ],
+            "adv": [
+                "Communication",
+                "Mathematics"
+            ]
+        },
+        "Financial Modeling": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Communication",
+                "Mathematics"
+            ],
+            "adv": [
+                "Financial Analysis",
+                "Accounting"
+            ]
+        },
+        "Insurance Agent": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Mathematics",
+                "Accounting"
+            ],
+            "adv": [
+                "Communication",
+                "Financial Analysis"
+            ]
+        },
+        "Stock Broker / Equity Dealer": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Accounting",
+                "Financial Analysis"
+            ],
+            "adv": [
+                "Mathematics",
+                "Communication"
+            ]
+        },
+        "Cashier": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Communication",
+                "Accounting"
+            ],
+            "adv": [
+                "Mathematics",
+                "Financial Analysis"
+            ]
+        },
+        "Finance Executive": {
+            "category": "Banking Financial Services & Insurance (BFSI)",
+            "core": [
+                "Mathematics",
+                "Communication"
+            ],
+            "adv": [
+                "Financial Analysis",
+                "Accounting"
+            ]
+        },
+        "Yoga Instructor": {
+            "category": "Fitness & Well-Being",
+            "core": [
+                "Communication",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Fitness Instructor / Gym Instructor": {
+            "category": "Fitness & Well-Being",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Athlete / Sportsman": {
+            "category": "Fitness & Well-Being",
+            "core": [
+                "Communication",
+                "Management"
+            ],
+            "adv": [
+                "Problem Solving"
+            ]
+        },
+        "Physical Training Instructor / Physical Education Teacher": {
+            "category": "Fitness & Well-Being",
+            "core": [
+                "Problem Solving",
+                "Communication"
+            ],
+            "adv": [
+                "Management"
+            ]
+        },
+        "Mountaineering": {
+            "category": "Fitness & Well-Being",
+            "core": [
+                "Communication",
+                "Management"
+            ],
+            "adv": [
+                "Problem Solving"
+            ]
+        },
+        "Firefighter": {
+            "category": "Defence& Security",
+            "core": [
+                "Physical Fitness",
+                "Leadership"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Security Guard": {
+            "category": "Defence& Security",
+            "core": [
+                "Leadership",
+                "Physical Fitness"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Army": {
+            "category": "Defence& Security",
+            "core": [
+                "Physical Fitness",
+                "Leadership"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Police": {
+            "category": "Defence& Security",
+            "core": [
+                "Communication",
+                "Leadership"
+            ],
+            "adv": [
+                "Physical Fitness"
+            ]
+        },
+        "Defence & Security": {
+            "category": "Defence& Security",
+            "core": [
+                "Leadership",
+                "Communication"
+            ],
+            "adv": [
+                "Physical Fitness"
+            ]
+        },
+        "Hospitality Operations": {
+            "category": "IT/ITeS",
+            "core": [
+                "Data Analysis",
+                "SQL",
+                "Networking"
+            ],
+            "adv": [
+                "Security",
+                "Python",
+                "Cloud Computing"
+            ]
+        },
+        "Chef / Cook": {
+            "category": "IT/ITeS",
+            "core": [
+                "Networking",
+                "Security",
+                "Cloud Computing"
+            ],
+            "adv": [
+                "Python",
+                "SQL",
+                "Data Analysis"
+            ]
+        },
+        "Travel agent": {
+            "category": "IT/ITeS",
+            "core": [
+                "Cloud Computing",
+                "Data Analysis",
+                "Python"
+            ],
+            "adv": [
+                "Networking",
+                "SQL",
+                "Security"
+            ]
+        },
+        "Tourist Guide": {
+            "category": "IT/ITeS",
+            "core": [
+                "Data Analysis",
+                "SQL",
+                "Security"
+            ],
+            "adv": [
+                "Networking",
+                "Cloud Computing",
+                "Python"
+            ]
+        },
+        "Butler": {
+            "category": "IT/ITeS",
+            "core": [
+                "Python",
+                "Data Analysis",
+                "Security"
+            ],
+            "adv": [
+                "SQL",
+                "Networking",
+                "Cloud Computing"
+            ]
+        },
+        "Flight Attendants & Travel Steward": {
+            "category": "IT/ITeS",
+            "core": [
+                "Data Analysis",
+                "Networking",
+                "Cloud Computing"
+            ],
+            "adv": [
+                "SQL",
+                "Security",
+                "Python"
+            ]
+        },
+        "Housekeeping": {
+            "category": "IT/ITeS",
+            "core": [
+                "Cloud Computing",
+                "Python",
+                "Security"
+            ],
+            "adv": [
+                "Networking",
+                "Data Analysis",
+                "SQL"
+            ]
+        },
+        "Food & Beverage Service": {
+            "category": "IT/ITeS",
+            "core": [
+                "Networking",
+                "Data Analysis",
+                "Cloud Computing"
+            ],
+            "adv": [
+                "Security",
+                "SQL",
+                "Python"
+            ]
+        },
+        "Front Desk Associate": {
+            "category": "IT/ITeS",
+            "core": [
+                "Python",
+                "Security",
+                "Cloud Computing"
+            ],
+            "adv": [
+                "SQL",
+                "Networking",
+                "Data Analysis"
+            ]
+        },
+        "Bakery & Confectionary": {
+            "category": "IT/ITeS",
+            "core": [
+                "Data Analysis",
+                "Cloud Computing",
+                "Python"
+            ],
+            "adv": [
+                "SQL",
+                "Networking",
+                "Security"
+            ]
+        },
+        "Web Developer": {
+            "category": "IT/ITeS",
+            "core": [
+                "Data Analysis",
+                "Cloud Computing",
+                "Networking"
+            ],
+            "adv": [
+                "Security",
+                "Python",
+                "SQL"
+            ]
+        },
+        "Software Programmer": {
+            "category": "IT/ITeS",
+            "core": [
+                "Python",
+                "Cloud Computing",
+                "Networking"
+            ],
+            "adv": [
+                "Security",
+                "Data Analysis",
+                "SQL"
+            ]
+        },
+        "Computer Operator & Programing Assistant": {
+            "category": "IT/ITeS",
+            "core": [
+                "Python",
+                "Cloud Computing",
+                "Networking"
+            ],
+            "adv": [
+                "Data Analysis",
+                "SQL",
+                "Security"
+            ]
+        },
+        "Software Testing Assistant": {
+            "category": "IT/ITeS",
+            "core": [
+                "Python",
+                "Networking",
+                "Cloud Computing"
+            ],
+            "adv": [
+                "Security",
+                "SQL",
+                "Data Analysis"
+            ]
+        },
+        "Data Entry Operator": {
+            "category": "IT/ITeS",
+            "core": [
+                "Networking",
+                "Security",
+                "SQL"
+            ],
+            "adv": [
+                "Python",
+                "Cloud Computing",
+                "Data Analysis"
+            ]
+        },
+        "Server Administrator": {
+            "category": "IT/ITeS",
+            "core": [
+                "Cloud Computing",
+                "Networking",
+                "SQL"
+            ],
+            "adv": [
+                "Python",
+                "Security",
+                "Data Analysis"
+            ]
+        },
+        "Cloud Professional": {
+            "category": "IT/ITeS",
+            "core": [
+                "Cloud Computing",
+                "Python",
+                "Security"
+            ],
+            "adv": [
+                "SQL",
+                "Data Analysis",
+                "Networking"
+            ]
+        },
+        "Reporter": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Creativity",
+                "Communication"
+            ],
+            "adv": [
+                "Public Speaking",
+                "Multimedia"
+            ]
+        },
+        "Photographer": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Communication",
+                "Creativity"
+            ],
+            "adv": [
+                "Multimedia",
+                "Public Speaking"
+            ]
+        },
+        "Actor": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Public Speaking",
+                "Creativity"
+            ],
+            "adv": [
+                "Multimedia",
+                "Communication"
+            ]
+        },
+        "Journalist": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Public Speaking",
+                "Communication"
+            ],
+            "adv": [
+                "Multimedia",
+                "Creativity"
+            ]
+        },
+        "Script writer": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Creativity",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Multimedia"
+            ]
+        },
+        "Dancer": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Public Speaking",
+                "Creativity"
+            ],
+            "adv": [
+                "Multimedia",
+                "Communication"
+            ]
+        },
+        "Choreographer": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Public Speaking",
+                "Creativity"
+            ],
+            "adv": [
+                "Communication",
+                "Multimedia"
+            ]
+        },
+        "Disc Jockey": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Multimedia",
+                "Public Speaking"
+            ],
+            "adv": [
+                "Communication",
+                "Creativity"
+            ]
+        },
+        "Model": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Creativity",
+                "Multimedia"
+            ],
+            "adv": [
+                "Communication",
+                "Public Speaking"
+            ]
+        },
+        "Cartoonist": {
+            "category": "Media & Entertainment",
+            "core": [
+                "Communication",
+                "Creativity"
+            ],
+            "adv": [
+                "Multimedia",
+                "Public Speaking"
+            ]
+        },
+        "Jewellery Design": {
+            "category": "Gem & Jewellery",
+            "core": [
+                "Mathematics",
+                "Creativity"
+            ],
+            "adv": [
+                "Design"
+            ]
+        },
+        "Gem Cutting & Polishing": {
+            "category": "Gem & Jewellery",
+            "core": [
+                "Creativity",
+                "Mathematics"
+            ],
+            "adv": [
+                "Design"
+            ]
+        },
+        "Gem Identification": {
+            "category": "Gem & Jewellery",
+            "core": [
+                "Design",
+                "Mathematics"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Stone Setting": {
+            "category": "Gem & Jewellery",
+            "core": [
+                "Mathematics",
+                "Design"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Wax Pulling & Casting": {
+            "category": "Gem & Jewellery",
+            "core": [
+                "Creativity",
+                "Mathematics"
+            ],
+            "adv": [
+                "Design"
+            ]
+        },
+        "Beautician": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Communication",
+                "Customer Service"
+            ],
+            "adv": [
+                "Creativity"
+            ]
+        },
+        "Hair Stylist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Creativity",
+                "Customer Service"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Pedicurist and Manicurist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Customer Service",
+                "Creativity"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Make Up Artist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Customer Service",
+                "Design"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "Mehendi Artist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Customer Service",
+                "Creativity"
+            ],
+            "adv": [
+                "Communication",
+                "Design"
+            ]
+        },
+        "Skin Specialist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Communication",
+                "Customer Service"
+            ],
+            "adv": [
+                "Design",
+                "Creativity"
+            ]
+        },
+        "Nail/ Tatoo artist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Communication",
+                "Creativity"
+            ],
+            "adv": [
+                "Design",
+                "Customer Service"
+            ]
+        },
+        "Spa Therapist": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Design",
+                "Communication"
+            ],
+            "adv": [
+                "Customer Service",
+                "Creativity"
+            ]
+        },
+        "Beauty Wellness Advisor/Consultant": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Communication",
+                "Creativity"
+            ],
+            "adv": [
+                "Design",
+                "Customer Service"
+            ]
+        },
+        "Barber": {
+            "category": "Beauty & Wellness",
+            "core": [
+                "Customer Service",
+                "Design"
+            ],
+            "adv": [
+                "Creativity",
+                "Communication"
+            ]
+        },
+        "AC & Refrigeration Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Networking"
+            ],
+            "adv": [
+                "Physics",
+                "Mathematics"
+            ]
+        },
+        "Sales Service & Repair Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Physics",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Mathematics",
+                "Networking"
+            ]
+        },
+        "Mobile Phone Hardware Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Physics",
+                "Networking"
+            ],
+            "adv": [
+                "Problem Solving",
+                "Mathematics"
+            ]
+        },
+        "Computer Hardware Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Networking",
+                "Physics"
+            ],
+            "adv": [
+                "Mathematics",
+                "Problem Solving"
+            ]
+        },
+        "Computer Networking Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Networking",
+                "Mathematics"
+            ],
+            "adv": [
+                "Physics",
+                "Problem Solving"
+            ]
+        },
+        "Electrical Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Physics",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Mathematics",
+                "Networking"
+            ]
+        },
+        "CCTV Installation Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Mathematics"
+            ],
+            "adv": [
+                "Networking",
+                "Physics"
+            ]
+        },
+        "Radio & TV Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Mathematics",
+                "Problem Solving"
+            ],
+            "adv": [
+                "Physics",
+                "Networking"
+            ]
+        },
+        "Printer Specialist/ Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Physics"
+            ],
+            "adv": [
+                "Networking",
+                "Mathematics"
+            ]
+        },
+        "Domestic Appliance Repair Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Mathematics"
+            ],
+            "adv": [
+                "Physics",
+                "Networking"
+            ]
+        },
+        "DTH Setup Box Installer & Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Physics"
+            ],
+            "adv": [
+                "Networking",
+                "Mathematics"
+            ]
+        },
+        "Broadband Technician": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Networking",
+                "Mathematics"
+            ],
+            "adv": [
+                "Physics",
+                "Problem Solving"
+            ]
+        },
+        "Mobile Repairing": {
+            "category": "Electronics & Hardware",
+            "core": [
+                "Problem Solving",
+                "Physics"
+            ],
+            "adv": [
+                "Mathematics",
+                "Networking"
+            ]
+        },
+        "Call Center Executive (BPO)": {
+            "category": "Sales/Marketing/BPO",
+            "core": [
+                "Communication",
+                "Marketing"
+            ],
+            "adv": [
+                "Customer Service"
+            ]
+        },
+        "Sales Executive": {
+            "category": "Sales/Marketing/BPO",
+            "core": [
+                "Marketing",
+                "Customer Service"
+            ],
+            "adv": [
+                "Communication"
+            ]
+        },
+        "Automobile Sales": {
+            "category": "Sales/Marketing/BPO",
+            "core": [
+                "Communication",
+                "Customer Service"
+            ],
+            "adv": [
+                "Marketing"
+            ]
+        },
+        "Retail Sales Associate": {
+            "category": "Sales/Marketing/BPO",
+            "core": [
+                "Communication",
+                "Marketing"
+            ],
+            "adv": [
+                "Customer Service"
+            ]
+        },
+        "Distributor Salesman": {
+            "category": "Sales/Marketing/BPO",
+            "core": [
+                "Communication",
+                "Customer Service"
+            ],
+            "adv": [
+                "Marketing"
+            ]
+        },
+        "Tailor": {
+            "category": "Textile & Handloom",
+            "core": [
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Advanced Creativity",
+                "Advanced Design"
+            ]
+        },
+        "Machine Embroidery": {
+            "category": "Textile & Handloom",
+            "core": [
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Advanced Creativity",
+                "Advanced Design"
+            ]
+        },
+        "Spinning Mill Operator": {
+            "category": "Textile & Handloom",
+            "core": [
+                "Design",
+                "Creativity"
+            ],
+            "adv": [
+                "Advanced Design",
+                "Advanced Creativity"
+            ]
+        },
+        "Hand Embroidery": {
+            "category": "Textile & Handloom",
+            "core": [
+                "Creativity",
+                "Design"
+            ],
+            "adv": [
+                "Advanced Creativity",
+                "Advanced Design"
+            ]
+        }
+    },
+    "category_skills_map": {
+        "Agriculture and Food": [
+            "Biology",
+            "Agriculture",
+            "Soil Science",
+            "Botany",
+            "Data Analysis",
+            "Project Management",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics"
+        ],
+        "Allied Medical Sciences": [
+            "Biology",
+            "Anatomy",
+            "Healthcare Management",
+            "Patient Care",
+            "Communication",
+            "Data Analysis"
+        ],
+        "Animation and Graphics": [
+            "Design",
+            "Animation",
+            "Creativity",
+            "Communication",
+            "Multimedia",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity"
+        ],
+        "Architecture": [
+            "AutoCAD",
+            "Design",
+            "Mathematics",
+            "Project Management",
+            "Communication",
+            "Project Management",
+            "Leadership",
+            "Python",
+            "Mathematics",
+            "Design",
+            "Creativity"
+        ],
+        "Business Management": [
+            "Management",
+            "Communication",
+            "Leadership",
+            "Data Analysis",
+            "Marketing",
+            "Accounting"
+        ],
+        "Design": [
+            "Design",
+            "Creativity",
+            "Communication",
+            "Project Management",
+            "Multimedia",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity"
+        ],
+        "Education & Teaching": [
+            "Communication",
+            "Counseling",
+            "Public Speaking",
+            "Psychology",
+            "Management"
+        ],
+        "Engineering": [
+            "Mathematics",
+            "Physics",
+            "Problem Solving",
+            "Project Management",
+            "Data Analysis",
+            "AutoCAD",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Design",
+            "Creativity",
+            "Python",
+            "Mathematics"
+        ],
+        "Finance Accounting & Banking": [
+            "Accounting",
+            "Mathematics",
+            "Financial Analysis",
+            "Data Analysis",
+            "Risk Management",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership"
+        ],
+        "Fitness & well-being": [
+            "Biology",
+            "Communication",
+            "Healthcare Management",
+            "Management",
+            "Project Management",
+            "Leadership"
+        ],
+        "Government & Defence": [
+            "Leadership",
+            "Communication",
+            "Physical Fitness",
+            "Problem Solving"
+        ],
+        "Hospitality & Tourism": [
+            "Communication",
+            "Management",
+            "Customer Service",
+            "Leadership"
+        ],
+        "Information Technology": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Networking",
+            "Problem Solving",
+            "Data Analysis",
+            "Security"
+        ],
+        "IT/ITeS": [
+            "Python",
+            "SQL",
+            "Data Analysis",
+            "Networking",
+            "Security",
+            "Cloud Computing",
+            "Data Analysis",
+            "SQL"
+        ],
+        "Journalism": [
+            "Communication",
+            "Creative Writing",
+            "Public Speaking",
+            "Data Analysis",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics"
+        ],
+        "Legal Studies": [
+            "Legal Research",
+            "Communication",
+            "Public Speaking",
+            "Problem Solving"
+        ],
+        "Mass Communication": [
+            "Communication",
+            "Public Speaking",
+            "Creativity",
+            "Marketing",
+            "Multimedia",
+            "Project Management",
+            "Leadership"
+        ],
+        "Medical Sciences": [
+            "Biology",
+            "Anatomy",
+            "Healthcare Management",
+            "Problem Solving",
+            "Patient Care"
+        ],
+        "Performing Arts": [
+            "Creativity",
+            "Communication",
+            "Public Speaking",
+            "Design"
+        ],
+        "Sales & Marketing": [
+            "Marketing",
+            "Communication",
+            "Data Analysis",
+            "Customer Service",
+            "Management",
+            "Data Analysis",
+            "SQL",
+            "Data Analysis",
+            "SQL"
+        ],
+        "Science & Mathematics": [
+            "Mathematics",
+            "Physics",
+            "Biology",
+            "Data Analysis",
+            "Problem Solving",
+            "Research"
+        ],
+        "Social Sciences": [
+            "Communication",
+            "Research",
+            "Psychology",
+            "Data Analysis",
+            "Public Speaking",
+            "Design",
+            "Creativity",
+            "Project Management",
+            "Leadership"
+        ],
+        "Healthcare": [
+            "Biology",
+            "Patient Care",
+            "Healthcare Management",
+            "Communication",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics",
+            "Python",
+            "Mathematics"
+        ],
+        "Construction": [
+            "AutoCAD",
+            "Project Management",
+            "Mathematics",
+            "Problem Solving"
+        ],
+        "Management & Entrepreneurship": [
+            "Management",
+            "Communication",
+            "Leadership",
+            "Marketing",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership",
+            "Project Management",
+            "Leadership"
+        ],
+        "Leather & Apparel": [
+            "Design",
+            "Creativity",
+            "Project Management",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity"
+        ],
+        "Banking Financial Services & Insurance (BFSI)": [
+            "Accounting",
+            "Mathematics",
+            "Financial Analysis",
+            "Communication"
+        ],
+        "Defence& Security": [
+            "Physical Fitness",
+            "Leadership",
+            "Communication"
+        ],
+        "Media & Entertainment": [
+            "Creativity",
+            "Communication",
+            "Multimedia",
+            "Public Speaking"
+        ],
+        "Gem & Jewellery": [
+            "Design",
+            "Creativity",
+            "Mathematics",
+            "Design",
+            "Creativity"
+        ],
+        "Beauty & Wellness": [
+            "Communication",
+            "Creativity",
+            "Customer Service",
+            "Design",
+            "Creativity",
+            "Design",
+            "Creativity"
+        ],
+        "Electronics & Hardware": [
+            "Physics",
+            "Problem Solving",
+            "Networking",
+            "Mathematics"
+        ],
+        "Sales/Marketing/BPO": [
+            "Communication",
+            "Marketing",
+            "Customer Service"
+        ],
+        "Textile & Handloom": [
+            "Design",
+            "Creativity"
+        ]
+    }
+}

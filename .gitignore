@@ -1,0 +1,28 @@
+# Python
+venv/
+*/venv/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Large ML Models (re-train via train_model.py)
+*.pkl
+*/model.pkl
+
+# Databases
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+*/node_modules/
+dist/
+*/dist/
+
+# Environment and OS
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
