@@ -1,4 +1,6 @@
 from fastapi import FastAPI, Depends, HTTPException, status
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from fastapi.security import OAuth2PasswordRequestForm
 from pydantic import BaseModel
 import joblib
@@ -293,3 +295,21 @@ def chat(
         return {"reply": "You're welcome! Let me know if you need any adjustments to your learning path."}
     else:
         return {"reply": "I see. Let's update your profile with this information. You can use the Profile Wizard to make sure everything is captured accurately, and I'll generate a personalized path for you!"}
+
+
+# --- Serve Built Frontend (Single-Deploy Support) ---
+frontend_dist = os.path.abspath(os.path.join(base_dir, '../frontend/dist'))
+
+if os.path.exists(frontend_dist):
+    assets_dir = os.path.join(frontend_dist, "assets")
+    if os.path.exists(assets_dir):
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+
+    @app.get("/{full_path:path}")
+    async def serve_spa(full_path: str):
+        if full_path.startswith("api/"):
+            raise HTTPException(status_code=404, detail="API endpoint not found")
+        target_file = os.path.join(frontend_dist, full_path)
+        if full_path and os.path.exists(target_file) and os.path.isfile(target_file):
+            return FileResponse(target_file)
+        return FileResponse(os.path.join(frontend_dist, "index.html"))
